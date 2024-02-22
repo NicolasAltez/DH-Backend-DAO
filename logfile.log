@@ -1,0 +1,29 @@
+[2024-02-21 22:42:23] [ INFO ] [AvionDaoH2Impl:37] Avion registrado con exito : Avion{id=1, marca='PEPITO', modelo='747', matricula='LV-BFR', fechaEntradaServicio=2024-02-21}
+[2024-02-21 22:42:24] [ INFO ] [AvionDaoH2Impl:144] Aviones encontrados con exito : []
+[2024-02-21 22:42:24] [ INFO ] [AvionDaoH2Impl:79] Avion encontrado con exito : null
+[2024-02-21 22:43:56] [ INFO ] [AvionDaoH2Impl:37] Avion registrado con exito : Avion{id=3, marca='PEPITO', modelo='747', matricula='LV-BFR', fechaEntradaServicio=2024-02-21}
+[2024-02-21 22:43:56] [ INFO ] [AvionDaoH2Impl:144] Aviones encontrados con exito : [Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}, Avion{id=2, marca='Airbus', modelo='A320', matricula='EC-5678', fechaEntradaServicio=2019-01-01}]
+[2024-02-21 22:43:56] [ INFO ] [AvionDaoH2Impl:79] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-21 22:44:17] [ INFO ] [AvionDaoH2Impl:144] Aviones encontrados con exito : [Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}, Avion{id=2, marca='Airbus', modelo='A320', matricula='EC-5678', fechaEntradaServicio=2019-01-01}]
+[2024-02-21 22:47:05] [ INFO ] [AvionDaoH2Impl:144] Aviones encontrados con exito : [Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}, Avion{id=2, marca='Airbus', modelo='A320', matricula='EC-5678', fechaEntradaServicio=2019-01-01}]
+[2024-02-21 22:47:41] [ INFO ] [AvionDaoH2Impl:144] Aviones encontrados con exito : [Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}, Avion{id=2, marca='Airbus', modelo='A320', matricula='EC-5678', fechaEntradaServicio=2019-01-01}]
+[2024-02-22 00:51:12] [ INFO ] [AvionDaoH2Impl:37] Avion registrado con exito : Avion{id=3, marca='PEPITO', modelo='747', matricula='LV-BFR', fechaEntradaServicio=2024-02-22}
+[2024-02-22 00:51:13] [ INFO ] [AvionDaoH2Impl:144] Aviones encontrados con exito : [Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}, Avion{id=2, marca='Airbus', modelo='A320', matricula='EC-5678', fechaEntradaServicio=2019-01-01}]
+[2024-02-22 00:51:13] [ INFO ] [AvionDaoH2Impl:79] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-22 00:51:13] [ INFO ] [AvionDaoH2Impl:106] El avion con id 1 fue eliminado con exito.
+[2024-02-22 00:51:13] [ INFO ] [AvionDaoH2Impl:79] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-22 00:51:57] [ INFO ] [AvionDaoH2Impl:106] El avion con id 1 fue eliminado con exito.
+[2024-02-22 00:52:12] [ INFO ] [AvionDaoH2Impl:79] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-22 01:05:40] [ INFO ] [AvionDaoH2Impl:124] El avion con id 1 fue eliminado con exito.
+[2024-02-22 01:06:13] [ INFO ] [AvionDaoH2Impl:97] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-22 01:26:52] [ INFO ] [AvionDaoH2Impl:124] El avion con id 1 fue eliminado con exito.
+[2024-02-22 01:26:52] [ INFO ] [AvionDaoH2Impl:97] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-22 01:29:02] [ INFO ] [AvionDaoH2Impl:124] El avion con id 1 fue eliminado con exito.
+[2024-02-22 01:29:06] [ INFO ] [AvionDaoH2Impl:97] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-22 01:29:41] [ INFO ] [AvionDaoH2Impl:124] El avion con id 1 fue eliminado con exito.
+[2024-02-22 01:29:45] [ INFO ] [AvionDaoH2Impl:97] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
+[2024-02-22 01:30:19] [ INFO ] [AvionDaoH2Impl:124] El avion con id 2 fue eliminado con exito.
+[2024-02-22 01:30:55] [ INFO ] [AvionDaoH2Impl:97] Avion encontrado con exito : Avion{id=2, marca='Airbus', modelo='A320', matricula='EC-5678', fechaEntradaServicio=2019-01-01}
+[2024-02-22 01:33:03] [ INFO ] [AvionDaoH2Impl:49] Avion registrado con exito : Avion{id=3, marca='PEPITO', modelo='747', matricula='LV-BFR', fechaEntradaServicio=2024-02-22}
+[2024-02-22 01:33:03] [ INFO ] [AvionDaoH2Impl:161] Aviones encontrados con exito : [Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}, Avion{id=2, marca='Airbus', modelo='A320', matricula='EC-5678', fechaEntradaServicio=2019-01-01}]
+[2024-02-22 01:33:03] [ INFO ] [AvionDaoH2Impl:96] Avion encontrado con exito : Avion{id=1, marca='Boeing', modelo='747', matricula='EC-1234', fechaEntradaServicio=2019-01-01}
